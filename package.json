@@ -1,0 +1,16 @@
+{
+  "name": "projetoplaywright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "expect": "^29.7.0",
+    "playwright": "^1.40.1"
+  }
+}
